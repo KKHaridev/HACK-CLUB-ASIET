@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    height: 6em;
+    width: 200px;
+}
+.intro{
+    justify-content: center;
+}
+h1{
+    color: #ec3750;
+    font-weight: bolder;
+}
+.btn{
+    justify-content: center;
+}
+.more{
+    background-color: #ec3750;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    border: solid;
+}
+.more:hover{
+    background-color: #212529;
+    color: #ec3750; 
+}
